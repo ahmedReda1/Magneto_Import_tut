@@ -1,0 +1,8 @@
+#
+# Netzarbeiter_Import modman file
+#
+
+app/etc/modules/Netzarbeiter_Import.xml app/etc/modules/Netzarbeiter_Import.xml
+
+app/code/local/Netzarbeiter/Import app/code/local/Netzarbeiter/Import
+app/code/local/Mage/ImportExport/Model/Import/Adapter/Custom.php app/code/local/Mage/ImportExport/Model/Import/Adapter/Custom.php
